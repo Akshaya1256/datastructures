@@ -9,7 +9,6 @@ struct node
 
 struct node* del_entire(struct node *head);
 void print_data(struct node *head);
-
 int main()
 {
 	int data;
